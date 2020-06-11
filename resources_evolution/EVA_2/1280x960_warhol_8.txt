@@ -1,0 +1,11 @@
+1280x960_warhol_8
+edges_parameter
+minVal= 38000
+maxVal= 45000
+aperture_Size= 7
+L2_gradient= True
+lines_parameter
+rho= 7
+threshold= 5
+min_line_length= 5
+max_line_gap= 5

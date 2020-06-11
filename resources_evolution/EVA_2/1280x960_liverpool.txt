@@ -1,0 +1,11 @@
+1280x960_liverpool
+edges_parameter
+minVal= 400
+maxVal= 500
+aperture_Size= 5
+L2_gradient= True
+lines_parameter
+rho= 7
+threshold= 1
+min_line_length= 1
+max_line_gap= 5

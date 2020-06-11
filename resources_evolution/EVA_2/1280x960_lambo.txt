@@ -1,0 +1,11 @@
+1280x960_lambo
+edges_parameter
+minVal= 3200
+maxVal= 4600
+aperture_Size= 7
+L2_gradient= True
+lines_parameter
+rho= 7
+threshold= 3
+min_line_length= 3
+max_line_gap= 5

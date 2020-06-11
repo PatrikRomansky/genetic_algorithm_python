@@ -1,0 +1,11 @@
+1280x960_mona
+edges_parameter
+minVal= 8500
+maxVal= 14000
+aperture_Size= 7
+L2_gradient= True
+lines_parameter
+rho= 7
+threshold= 1
+min_line_length= 1
+max_line_gap= 2

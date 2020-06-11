@@ -1,0 +1,11 @@
+1280x960_caterpie
+edges_parameter
+minVal= 400
+maxVal= 1000
+aperture_Size= 5
+L2_gradient= True
+lines_parameter
+rho= 7
+threshold= 3
+min_line_length= 3
+max_line_gap= 10

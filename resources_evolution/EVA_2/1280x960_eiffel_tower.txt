@@ -1,0 +1,11 @@
+1280x960_eiffel_tower
+edges_parameter
+minVal= 45000
+maxVal= 50000
+aperture_Size= 7
+L2_gradient= True
+lines_parameter
+rho= 7
+threshold= 2
+min_line_length= 3
+max_line_gap= 5
