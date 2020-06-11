@@ -126,8 +126,8 @@ def evolutionary_algorithm(pop, max_gen, fitness, operators, mate_sel, *, map_fn
         
 
         out_fit_gen.append(gen + ' : ' + str(fit_value))
-
-        if (G % log * math.e**G) == 0 or G == max_gen-1:
+        
+        if G % log == 0 or G == max_gen-1:
             count += 1
             out_bi_gen.append(gen + '\n' + bi.ToString())
 
